@@ -6,6 +6,7 @@ My research interests focus on:
 - 🌍 **Remote Sensing**
 - ✂️ **Image Reasoning Segmentation**
 
+📫 You can contact me at 2023312247@email.cufe.edu.cn/13880155015@163.com
 <!--
 **kiki-zyq/kiki-zyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
