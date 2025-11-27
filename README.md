@@ -2,9 +2,10 @@
 ## Hello, this is Yunqi Zhou. 👋
 I am an undergraduate student at the **Central University of Finance and Economics (CUFE)**, majoring in **Data Science and Big Data Technology**.
 My research interests focus on:
-- **Multi-modal Large Language Models (MLLMs)**
-- **Remote Sensing**
-- **Referring Image Segmentation**
+- 🧠 **Multi-modal Large Language Models (MLLMs)**
+- 🌍 **Remote Sensing**
+- ✂️ **Image Reasoning Segmentation**
+
 <!--
 **kiki-zyq/kiki-zyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
