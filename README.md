@@ -2,7 +2,7 @@
 ## Hello, this is Yunqi Zhou. 👋
 I am an undergraduate student at the **Central University of Finance and Economics (CUFE)**, majoring in **Data Science and Big Data Technology**.
 My research interests focus on:
-- 🧠 **Multi-modal Large Language Models (MLLMs)**
+- 🧠 **Multi-modal Large Language Models**
 - 🌍 **Remote Sensing**
 - ✂️ **Image Reasoning Segmentation**
 
