@@ -1,5 +1,5 @@
 
-## Hello, this is Yunqi Zhou(周昀祺). 👋
+## Hello, this is Yunqi Zhou (周昀祺). 👋
 I am an undergraduate student at the **Central University of Finance and Economics (CUFE)**, majoring in **Data Science and Big Data Technology**.
 My research interests focus on:
 - 🧠 **Multi-modal Large Language Models**
