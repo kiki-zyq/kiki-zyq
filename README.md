@@ -7,6 +7,9 @@ My research interests focus on:
 - ✂️ **Image Reasoning Segmentation**
 
 📫 You can contact me at 2023312247@email.cufe.edu.cn/13880155015@163.com/1823273293@qq.com
+
+🌐 If you want to know more about me, feel free to visit [my homepage](https://kiki-zyq.github.io/)!
+
 <!--
 **kiki-zyq/kiki-zyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
