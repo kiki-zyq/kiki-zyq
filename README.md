@@ -3,7 +3,6 @@
 I am an undergraduate student at the **Central University of Finance and Economics (CUFE)**, majoring in **Data Science and Big Data Technology**.
 My research interests focus on:
 - 🧠 **Multi-modal Large Language Models**
-- 🌍 **Remote Sensing**
 - ✂️ **Image Reasoning Segmentation**
 
 📫 You can contact me at 2023312247@email.cufe.edu.cn/13880155015@163.com/1823273293@qq.com
